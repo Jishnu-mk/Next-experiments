@@ -9,7 +9,7 @@ function App()
 
   return (
     <>
-     <h1>API App</h1>
+     <h1>API APP</h1>
      <button onClick={()=>setRefresh(refresh+1)}>Refresh</button>
      </>
   )
